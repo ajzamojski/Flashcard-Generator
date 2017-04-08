@@ -1,10 +1,7 @@
-{"full":"The Union won the civil war","close":"the union","partial":"... won the civil war"}
-{"full":"mastodon released a new album","close":"mastodon"}
-{"full":"mastodon released a new album","close":"mastodon","partial":"... released a new album"}
-{"full":"The union won the civil war","close":"the union","partial":"... won the civil war"}
-{"full":"The union won the civil war","close":"the union","partial":"... won the civil war"}
-{"full":"The union won the civil war","close":"The union","partial":"... won the civil war"}
-{"full":"The union won the civil war","close":"the south","partial":"the union won the civil war"}
-{"full":"The union won the civil war","close":"theffdsa","partial":"the union won the civil war"}
-{"full":"The union won the civil war","close":"The union","partial":"... won the civil war"}
-{"full":"The union won the civil war","close":"the union","partial":"... won the civil war"}
+{"full":"There are 7 colors in a rainbow","close":"7","partial":"there are ... colors in a rainbow"}
+{"full":"Baloo was the name of the bear in 'The Jungle Book'","close":"Baloo","partial":"... was the name of the bear in 'the jungle book'"}
+{"full":"There are 1000 years in a millennium","close":"1000","partial":"there are ... years in a millennium"}
+{"full":"The Smurfs are the color blue","close":"Blue","partial":"the smurfs are the color ..."}
+{"full":"London is the capital of England","close":"London","partial":"... is the capital of england"}
+{"full":"The planet earth is located in the milky way galaxy","close":"milky way","partial":"the planet earth is located in the ... galaxy"}
+{"full":"The titanic sank in the year 1912","close":"1912","partial":"the titanic sank in the year ..."}

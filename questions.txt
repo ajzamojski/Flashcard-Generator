@@ -1,11 +1,16 @@
 {"front":"Who was the first president of the USA?","back":"George Washington"}
 {"front":"Who was the 16th president of the USA?","back":"Abraham Lincoln"}
 {"front":"Who was the second president of the USA?","back":"John Adams"}
-{"front":"Who was the 33rd president of the USA?","back":"John F. Kennedy"}
-{"front":"Who was the 33rd president of the USA?","back":"John F. Kennedy"}
-{"front":"Who was the first president of the USA?","back":"George Washington"}
-{"front":"Who is sitting next to me?","back":"Bobby"}
-{"front":"Who won the civil war?","back":"The Union"}
-{"front":" Who was the last president?","back":"Obama"}
-{"front":"Who won the civil war?","back":"the union"}
-{"front":"Who won the civil war?","back":"the union"}
+{"front":"Who was the 33rd president of the USA?","back":"Harry S. Truman"}
+{"front":"Who was the 44th president of the USA?","back":"Barack Obama"}
+{"front":"Who was the 40th president of the USA?","back":"Ronald Reagan"}
+{"front":"Who was the 26th president of the USA?","back":"Theodore Roosevelt"}
+{"front":"Who was the 45th president of the USA?","back":"Donald Trump"}
+{"front":"What is the name of the Greek God of music?","back":"Apollo"}
+{"front":"Who painted the Mona Lisa?","back":"Leonardo da Vinci"}
+{"front":"What type of food do pandas eat?","back":"Bamboo"}
+{"front":"Which Italian city is famous for its leaning tower?","back":"Pisa"}
+{"front":"Which country is home to the kangaroo?","back":"Australia"}
+{"front":"From what tree do acorns come?","back":"Oak"}
+{"front":"Who composed the Minute Waltz?","back":"Frederic Chopin"}
+{"front":"Who founded the first public library in the U.S.?","back":"Benjamin Franklin"}
