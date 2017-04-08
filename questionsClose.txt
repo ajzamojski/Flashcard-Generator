@@ -1,0 +1,10 @@
+{"full":"The Union won the civil war","close":"the union","partial":"... won the civil war"}
+{"full":"mastodon released a new album","close":"mastodon"}
+{"full":"mastodon released a new album","close":"mastodon","partial":"... released a new album"}
+{"full":"The union won the civil war","close":"the union","partial":"... won the civil war"}
+{"full":"The union won the civil war","close":"the union","partial":"... won the civil war"}
+{"full":"The union won the civil war","close":"The union","partial":"... won the civil war"}
+{"full":"The union won the civil war","close":"the south","partial":"the union won the civil war"}
+{"full":"The union won the civil war","close":"theffdsa","partial":"the union won the civil war"}
+{"full":"The union won the civil war","close":"The union","partial":"... won the civil war"}
+{"full":"The union won the civil war","close":"the union","partial":"... won the civil war"}

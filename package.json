@@ -1,0 +1,25 @@
+{
+  "name": "flashcard_generator",
+  "version": "1.0.0",
+  "description": "An app that will allow users to create flashcards and use them",
+  "main": "app.js",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "inits": "^1.6.0",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajzamojski/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajzamojski/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/ajzamojski/Flashcard-Generator#readme"
+}
