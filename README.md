@@ -34,4 +34,5 @@ If `User` is selected, the individual will be asked questions based on
 the array of created questions until all the array or questions run out.
 If a value for the answer is not enter, the user will not be able to proceed,
 also whereas if you get an answer correct or wrong, you will be notified
-accordingly. Example: ![screenshot4](screenshot4.png)
+accordingly. If the user would like to quit the question they must type in
+`QUIT` Example: ![screenshot4](screenshot4.png)

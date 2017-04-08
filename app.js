@@ -17,6 +17,7 @@ var myUser = new basicCard.basicCardCon();
 // var myUser2 = new closeCard.closeCardCon();
 
 function Main () {
+
 	//The main function first prompts what the person would like to do
     inquirer.prompt([
       {
@@ -105,12 +106,14 @@ function Main () {
 			        			console.log('\n' + "Enter a value");
 			        			return;
 			        		}
+
 			        		// If the answer is not included in the full text, it will not accept
 			        		// the statement, making the closeCard invalid
 			        		if (!question.question.toLowerCase().includes(answer.toLowerCase())) {
 			        			console.log('\n' + "The answer must be included in the full statement");
 			        			return;
 			        		}
+
 			        		else return true;
 			        	}
 			   		}
@@ -153,6 +156,7 @@ function Main () {
 			        			console.log('\n' + "Enter a value");
 			        			return;
 			        		}
+
 			        		else return true;	 
 			        	}
 			    	}
@@ -160,7 +164,11 @@ function Main () {
       				// When an answer is typed in, the user will be notified if they are correct
       				// or not while also prompting for the next question until all questions
       				// are done.
-      					if (response.answer.toLowerCase() === someItem.back.toLowerCase()) {
+      					if (response.answer === 'QUIT') {
+			        			console.log("Goodbye!");
+			        			return Main();
+			        		}
+      					else if (response.answer.toLowerCase() === someItem.back.toLowerCase()) {
 
       						console.log(response.answer);
       						console.log("That is correct!");
